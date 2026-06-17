@@ -1,7 +1,7 @@
 {
-  "name": "starter-typescript",
+  "name": "leets",
   "type": "module",
-  "version": "1.1.2",
+  "version": "0.0.0",
   "devEngines": {
     "packageManager": {
       "name": "pnpm",
@@ -14,17 +14,17 @@
       "onFail": "download"
     }
   },
-  "description": "A template for typescript project",
+  "description": "LeetCode solutions in TypeScript.",
   "author": {
     "name": "tinywaves",
     "email": "dhzhme@gmail.com"
   },
   "license": "MIT",
-  "homepage": "https://github.com/tinywaves/starter-typescript",
+  "homepage": "https://github.com/tinywaves/leets",
   "keywords": [
     "typescript",
-    "template",
-    "starter"
+    "leetcode",
+    "solutions"
   ],
   "exports": {
     ".": {
