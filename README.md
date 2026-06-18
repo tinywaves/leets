@@ -5,6 +5,7 @@ LeetCode solutions in TypeScript.
 | Problem | Solution |
 |---------|----------|
 | [1344. Angle Between Hands of a Clock](https://leetcode.com/problems/angle-between-hands-of-a-clock/description/) | [📌](./src/1344-angle-between-hands-of-a-clock.ts)|
+| [2095. Delete the Middle Node of a Linked List](https://leetcode.com/problems/delete-the-middle-node-of-a-linked-list/description/) | [📌](./src/2095-delete-the-middle-node-of-a-linked-list.ts)|
 | [2618. Check if Object Instance of Class](https://leetcode.com/problems/check-if-object-instance-of-class/description/) | [📌](./src/2618-check-if-object-instance-of-class.ts)|
 | [2619. Array Prototype Last](https://leetcode.com/problems/array-prototype-last/description/) | [📌](./src/2619-array-prototype-last.ts)|
 | [2620. Counter](https://leetcode.com/problems/counter/description/) | [📌](./src/2620-counter.ts)|
