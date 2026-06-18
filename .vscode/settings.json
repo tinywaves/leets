@@ -112,5 +112,8 @@
     "leets",
     "nums",
     "unrs"
-  ]
+  ],
+  "github.copilot.enable": {
+    "*": false
+  }
 }
