@@ -1,18 +1,20 @@
-import { it, vi } from 'vitest';
+import { describe, it, expect, vi, beforeEach, afterEach } from 'vitest';
 import { sleep } from '../src/2621-sleep';
 
-it('millis = 100', async () => {
-  vi.useFakeTimers();
-  const promise = sleep(100);
-  vi.advanceTimersByTime(100);
-  await promise;
-  vi.useRealTimers();
-});
+describe('2621. Sleep', () => {
+  beforeEach(() => vi.useFakeTimers());
 
-it('millis = 200', async () => {
-  vi.useFakeTimers();
-  const promise = sleep(200);
-  vi.advanceTimersByTime(200);
-  await promise;
-  vi.useRealTimers();
+  afterEach(() => vi.useRealTimers());
+
+  it('millis = 100', async () => {
+    const promise = sleep(100);
+    await vi.advanceTimersByTimeAsync(100);
+    await expect(promise).resolves.toBeUndefined();
+  });
+
+  it('millis = 200', async () => {
+    const promise = sleep(200);
+    await vi.advanceTimersByTimeAsync(200);
+    await expect(promise).resolves.toBeUndefined();
+  });
 });
