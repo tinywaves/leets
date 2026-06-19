@@ -1,5 +1,6 @@
 import { describe, it, expect } from 'vitest';
-import { deleteMiddle, ListNode } from '../src/2095-delete-the-middle-node-of-a-linked-list';
+import { deleteMiddle } from '../src/2095-delete-the-middle-node-of-a-linked-list';
+import { ListNode } from '../src/utils/list-node';
 
 function buildList(arr: number[]): ListNode | null {
   if (arr.length === 0) {
