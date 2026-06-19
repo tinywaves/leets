@@ -14,5 +14,6 @@ LeetCode solutions in TypeScript.
 | [2621. Sleep](https://leetcode.com/problems/sleep/description/) | [📌](./src/2621-sleep.ts)|
 | [2622. Cache With Time Limit](https://leetcode.com/problems/cache-with-time-limit/description/) | [📌](./src/2622-cache-with-time-limit.ts)|
 | [2623. Memoize](https://leetcode.com/problems/memoize/description/) | [📌](./src/2623-memoize.ts)|
+| [2624. Snail Traversal](https://leetcode.com/problems/snail-traversal/description/) | [📌](./src/2624-snail-traversal.ts)|
 | [3612. Process String with Special Operations I](https://leetcode.com/problems/process-string-with-special-operations-i/description/) | [📌](./src/3612-process-string-with-special-operations-i.ts)|
 | [3614. Process String with Special Operations II](https://leetcode.com/problems/process-string-with-special-operations-ii/description/) | [📌](./src/3614-process-string-with-special-operations-ii.ts)|
