@@ -6,6 +6,7 @@ LeetCode solutions in TypeScript.
 |---------|----------|
 | [1344. Angle Between Hands of a Clock](https://leetcode.com/problems/angle-between-hands-of-a-clock/description/) | [📌](./src/1344-angle-between-hands-of-a-clock.ts)|
 | [1732. Find the Highest Altitude](https://leetcode.com/problems/find-the-highest-altitude/description/) | [📌](./src/1732-find-the-highest-altitude.ts)|
+| [1833. Maximum Ice Cream Bars](https://leetcode.com/problems/maximum-ice-cream-bars/description/) | [📌](./src/1833-maximum-ice-cream-bars.ts)|
 | [1840. Maximum Building Height](https://leetcode.com/problems/maximum-building-height/description/) | [🔍](./src/1840-maximum-building-height.ts)|
 | [2095. Delete the Middle Node of a Linked List](https://leetcode.com/problems/delete-the-middle-node-of-a-linked-list/description/) | [📌](./src/2095-delete-the-middle-node-of-a-linked-list.ts)|
 | [2130. Maximum Twin Sum of a Linked List](https://leetcode.com/problems/maximum-twin-sum-of-a-linked-list/description/) | [📌](./src/2130-maximum-twin-sum-of-a-linked-list.ts)|
