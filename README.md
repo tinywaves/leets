@@ -25,4 +25,4 @@ LeetCode solutions in TypeScript.
 | [3699. Number of ZigZag Arrays I](https://leetcode.com/problems/number-of-zigzag-arrays-i/description/) | [🔍](./src/3699-number-of-zigzag-arrays-i.ts)|
 | [3700. Number of ZigZag Arrays II](https://leetcode.com/problems/number-of-zigzag-arrays-ii/description/) | [🔍](./src/3700-number-of-zigzag-arrays-ii.ts)|
 | [3737. Count Subarrays With Majority Element I](https://leetcode.com/problems/count-subarrays-with-majority-element-i/description/) | [📌](./src/3737-count-subarrays-with-majority-element-i.ts)|
-| [3739. Count Subarrays With Majority Element II](https://leetcode.cn/problems/count-subarrays-with-majority-element-ii/description/) | [📌](./src/3739-count-subarrays-with-majority-element-ii.ts)|
+| [3739. Count Subarrays With Majority Element II](https://leetcode.cn/problems/count-subarrays-with-majority-element-ii/description/) | [🔍](./src/3739-count-subarrays-with-majority-element-ii.ts)|
