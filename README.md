@@ -4,7 +4,7 @@ LeetCode solutions in TypeScript.
 
 | Problem | Solution |
 |---------|----------|
-| [584. Find Customer Referee](https://leetcode.com/problems/find-customer-referee/description/) | [📌](./src/0584_find_customer_referee.py)|
+| [0584. Find Customer Referee](https://leetcode.com/problems/find-customer-referee/description/) | [📌](./src/0584_find_customer_referee.py)|
 | [1189. Maximum Number of Balloons](https://leetcode.com/problems/maximum-number-of-balloons/description/) | [📌](./src/1189-maximum-number-of-balloons.ts)|
 | [1344. Angle Between Hands of a Clock](https://leetcode.com/problems/angle-between-hands-of-a-clock/description/) | [📌](./src/1344-angle-between-hands-of-a-clock.ts)|
 | [1732. Find the Highest Altitude](https://leetcode.com/problems/find-the-highest-altitude/description/) | [📌](./src/1732-find-the-highest-altitude.ts)|
