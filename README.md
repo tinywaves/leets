@@ -8,6 +8,7 @@ LeetCode solutions in TypeScript, with some pandas-related problems solved using
 | [1189. Maximum Number of Balloons](https://leetcode.com/problems/maximum-number-of-balloons/description/) | [📌](./src/1189-maximum-number-of-balloons.ts)|
 | [1344. Angle Between Hands of a Clock](https://leetcode.com/problems/angle-between-hands-of-a-clock/description/) | [📌](./src/1344-angle-between-hands-of-a-clock.ts)|
 | [1732. Find the Highest Altitude](https://leetcode.com/problems/find-the-highest-altitude/description/) | [📌](./src/1732-find-the-highest-altitude.ts)|
+| [1757. Recyclable and Low Fat Products](https://leetcode.com/problems/recyclable-and-low-fat-products/description/) | [📌](./src/1757_recyclable_and_low_fat_products.py)|
 | [1833. Maximum Ice Cream Bars](https://leetcode.com/problems/maximum-ice-cream-bars/description/) | [📌](./src/1833-maximum-ice-cream-bars.ts)|
 | [1840. Maximum Building Height](https://leetcode.com/problems/maximum-building-height/description/) | [🔍](./src/1840-maximum-building-height.ts)|
 | [1846. Maximum Element After Decreasing and Rearranging](https://leetcode.com/problems/maximum-element-after-decreasing-and-rearranging/description/) | [📌](./src/1846-maximum-element-after-decreasing-and-rearranging.ts)|
