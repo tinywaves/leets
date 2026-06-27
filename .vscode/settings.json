@@ -106,6 +106,15 @@
   "[vue]": {
     "editor.defaultFormatter": "dbaeumer.vscode-eslint"
   },
+  "[python]": {
+    "editor.codeActionsOnSave": {
+      "source.fixAll": "explicit",
+      "source.fixAll.eslint": "never",
+      "source.organizeImports": "never"
+    },
+    "editor.defaultFormatter": "charliermarsh.ruff",
+    "editor.formatOnSave": true
+  },
   "cSpell.words": [
     "accum",
     "balon",
@@ -115,6 +124,8 @@
     "loonbalxballpoon",
     "nlaebolko",
     "nums",
+    "pycache",
+    "pytest",
     "unrs"
   ],
   "github.copilot.enable": {
