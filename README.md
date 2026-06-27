@@ -20,6 +20,7 @@ LeetCode solutions in TypeScript.
 | [2624. Snail Traversal](https://leetcode.com/problems/snail-traversal/description/) | [📌](./src/2624-snail-traversal.ts)|
 | [2625. Flatten Deeply Nested Array](https://leetcode.com/problems/flatten-deeply-nested-array/description/) | [📌](./src/2625-flatten-deeply-nested-array.ts)|
 | [2626. Array Reduce Transformation](https://leetcode.com/problems/array-reduce-transformation/description/) | [📌](./src/2626-array-reduce-transformation.ts)|
+| [3020. Find the Maximum Number of Elements in Subset](https://leetcode.com/problems/find-the-maximum-number-of-elements-in-subset/description/) | [🔍](./src/3020-find-the-maximum-number-of-elements-in-subset.ts)|
 | [3612. Process String with Special Operations I](https://leetcode.com/problems/process-string-with-special-operations-i/description/) | [📌](./src/3612-process-string-with-special-operations-i.ts)|
 | [3614. Process String with Special Operations II](https://leetcode.com/problems/process-string-with-special-operations-ii/description/) | [📌](./src/3614-process-string-with-special-operations-ii.ts)|
 | [3699. Number of ZigZag Arrays I](https://leetcode.com/problems/number-of-zigzag-arrays-i/description/) | [🔍](./src/3699-number-of-zigzag-arrays-i.ts)|
