@@ -9,6 +9,7 @@ LeetCode solutions in TypeScript.
 | [1732. Find the Highest Altitude](https://leetcode.com/problems/find-the-highest-altitude/description/) | [📌](./src/1732-find-the-highest-altitude.ts)|
 | [1833. Maximum Ice Cream Bars](https://leetcode.com/problems/maximum-ice-cream-bars/description/) | [📌](./src/1833-maximum-ice-cream-bars.ts)|
 | [1840. Maximum Building Height](https://leetcode.com/problems/maximum-building-height/description/) | [🔍](./src/1840-maximum-building-height.ts)|
+| [1846. Maximum Element After Decreasing and Rearranging](https://leetcode.com/problems/maximum-element-after-decreasing-and-rearranging/description/) | [📌](./src/1846-maximum-element-after-decreasing-and-rearranging.ts)|
 | [2095. Delete the Middle Node of a Linked List](https://leetcode.com/problems/delete-the-middle-node-of-a-linked-list/description/) | [📌](./src/2095-delete-the-middle-node-of-a-linked-list.ts)|
 | [2130. Maximum Twin Sum of a Linked List](https://leetcode.com/problems/maximum-twin-sum-of-a-linked-list/description/) | [📌](./src/2130-maximum-twin-sum-of-a-linked-list.ts)|
 | [2618. Check if Object Instance of Class](https://leetcode.com/problems/check-if-object-instance-of-class/description/) | [📌](./src/2618-check-if-object-instance-of-class.ts)|
@@ -26,4 +27,4 @@ LeetCode solutions in TypeScript.
 | [3699. Number of ZigZag Arrays I](https://leetcode.com/problems/number-of-zigzag-arrays-i/description/) | [🔍](./src/3699-number-of-zigzag-arrays-i.ts)|
 | [3700. Number of ZigZag Arrays II](https://leetcode.com/problems/number-of-zigzag-arrays-ii/description/) | [🔍](./src/3700-number-of-zigzag-arrays-ii.ts)|
 | [3737. Count Subarrays With Majority Element I](https://leetcode.com/problems/count-subarrays-with-majority-element-i/description/) | [📌](./src/3737-count-subarrays-with-majority-element-i.ts)|
-| [3739. Count Subarrays With Majority Element II](https://leetcode.cn/problems/count-subarrays-with-majority-element-ii/description/) | [🔍](./src/3739-count-subarrays-with-majority-element-ii.ts)|
+| [3739. Count Subarrays With Majority Element II](https://leetcode.com/problems/count-subarrays-with-majority-element-ii/description/) | [🔍](./src/3739-count-subarrays-with-majority-element-ii.ts)|
