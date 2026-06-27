@@ -1,6 +1,6 @@
 # leets
 
-LeetCode solutions in TypeScript.
+LeetCode solutions in TypeScript, with some pandas-related problems solved using Python pandas.
 
 | Problem | Solution |
 |---------|----------|
