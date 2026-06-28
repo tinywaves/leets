@@ -12,6 +12,7 @@ LeetCode solutions in TypeScript, with some pandas-related problems solved using
 | [1833. Maximum Ice Cream Bars](https://leetcode.com/problems/maximum-ice-cream-bars/description/) | [📌](./src/1833-maximum-ice-cream-bars.ts)|
 | [1840. Maximum Building Height](https://leetcode.com/problems/maximum-building-height/description/) | [🔍](./src/1840-maximum-building-height.ts)|
 | [1846. Maximum Element After Decreasing and Rearranging](https://leetcode.com/problems/maximum-element-after-decreasing-and-rearranging/description/) | [📌](./src/1846-maximum-element-after-decreasing-and-rearranging.ts)|
+| [1967. Number of Strings That Appear as Substrings in Word](https://leetcode.com/problems/number-of-strings-that-appear-as-substrings-in-word/description/) | [📌](./src/1967-number-of-strings-that-appear-as-substrings-in-word.ts)|
 | [2095. Delete the Middle Node of a Linked List](https://leetcode.com/problems/delete-the-middle-node-of-a-linked-list/description/) | [📌](./src/2095-delete-the-middle-node-of-a-linked-list.ts)|
 | [2130. Maximum Twin Sum of a Linked List](https://leetcode.com/problems/maximum-twin-sum-of-a-linked-list/description/) | [📌](./src/2130-maximum-twin-sum-of-a-linked-list.ts)|
 | [2235. Add Two Integers](https://leetcode.com/problems/add-two-integers/description/) | [📌](./src/2235-add-two-integers.ts)|

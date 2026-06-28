@@ -116,6 +116,7 @@
     "editor.formatOnSave": true
   },
   "cSpell.words": [
+    "aaaaabbbbb",
     "accum",
     "balon",
     "bumpp",
@@ -129,6 +130,7 @@
     "unrs"
   ],
   "github.copilot.enable": {
-    "*": false
+    "*": false,
+    "markdown": false
   }
 }
