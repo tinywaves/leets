@@ -20,6 +20,7 @@ LeetCode solutions in TypeScript, with some pandas-related problems solved using
 | [2095. Delete the Middle Node of a Linked List](https://leetcode.com/problems/delete-the-middle-node-of-a-linked-list/description/) | [📌](./src/2095-delete-the-middle-node-of-a-linked-list.ts)|
 | [2130. Maximum Twin Sum of a Linked List](https://leetcode.com/problems/maximum-twin-sum-of-a-linked-list/description/) | [📌](./src/2130-maximum-twin-sum-of-a-linked-list.ts)|
 | [2235. Add Two Integers](https://leetcode.com/problems/add-two-integers/description/) | [📌](./src/2235-add-two-integers.ts)|
+| [2469. Convert the Temperature](https://leetcode.com/problems/convert-the-temperature/description/) | [📌](./src/2469-convert-the-temperature.ts)|
 | [2618. Check if Object Instance of Class](https://leetcode.com/problems/check-if-object-instance-of-class/description/) | [📌](./src/2618-check-if-object-instance-of-class.ts)|
 | [2619. Array Prototype Last](https://leetcode.com/problems/array-prototype-last/description/) | [📌](./src/2619-array-prototype-last.ts)|
 | [2620. Counter](https://leetcode.com/problems/counter/description/) | [📌](./src/2620-counter.ts)|
