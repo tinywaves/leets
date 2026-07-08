@@ -7,6 +7,7 @@ LeetCode solutions in TypeScript, with some pandas-related problems solved using
 
 | Problem | Solution |
 |---------|----------|
+| [231. Power of Two](https://leetcode.com/problems/power-of-two/description/) | [🔍](./src/0231-power-of-two.ts)|
 | [258. Add Digits](https://leetcode.com/problems/add-digits/description/) | [📌](./src/0258-add-digits.ts)|
 | [584. Find Customer Referee](https://leetcode.com/problems/find-customer-referee/description/) | [📌](./src/0584_find_customer_referee.py)|
 | [709. To Lower Case](https://leetcode.com/problems/to-lower-case/description/) | [📌](./src/0709-to-lower-case.ts)|
