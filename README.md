@@ -35,6 +35,7 @@ LeetCode solutions in TypeScript, with some pandas-related problems solved using
 | [2236. Root Equals Sum of Children](https://leetcode.com/problems/root-equals-sum-of-children/description/) | [📌](./src/2236-root-equals-sum-of-children.ts)|
 | [2413. Smallest Even Multiple](https://leetcode.com/problems/smallest-even-multiple/description/) | [📌](./src/2413-smallest-even-multiple.ts)|
 | [2469. Convert the Temperature](https://leetcode.com/problems/convert-the-temperature/description/) | [📌](./src/2469-convert-the-temperature.ts)|
+| [2586. Count the Number of Vowel Strings in Range](https://leetcode.com/problems/count-the-number-of-vowel-strings-in-range/description/) | [📌](./src/2586-count-the-number-of-vowel-strings-in-range.ts)|
 | [2618. Check if Object Instance of Class](https://leetcode.com/problems/check-if-object-instance-of-class/description/) | [📌](./src/2618-check-if-object-instance-of-class.ts)|
 | [2619. Array Prototype Last](https://leetcode.com/problems/array-prototype-last/description/) | [📌](./src/2619-array-prototype-last.ts)|
 | [2620. Counter](https://leetcode.com/problems/counter/description/) | [📌](./src/2620-counter.ts)|
