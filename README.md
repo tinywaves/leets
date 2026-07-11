@@ -20,6 +20,7 @@ LeetCode solutions in TypeScript, with some pandas-related problems solved using
 | [1344. Angle Between Hands of a Clock](https://leetcode.com/problems/angle-between-hands-of-a-clock/description/) | [📌](./src/1344-angle-between-hands-of-a-clock.ts)|
 | [1358. Number of Substrings Containing All Three Characters](https://leetcode.com/problems/number-of-substrings-containing-all-three-characters/description/) | [🔍](./src/1358-number-of-substrings-containing-all-three-characters.ts)|
 | [1422. Maximum Score After Splitting a String](https://leetcode.com/problems/maximum-score-after-splitting-a-string/description/) | [📌](./src/1422-maximum-score-after-splitting-a-string.ts)|
+| [1456. Maximum Number of Vowels in a Substring of Given Length](https://leetcode.com/problems/maximum-number-of-vowels-in-a-substring-of-given-length/description/) | [📌](./src/1456-maximum-number-of-vowels-in-a-substring-of-given-length.ts)|
 | [1470. Shuffle the Array](https://leetcode.com/problems/shuffle-the-array/description/) | [📌](./src/1470-shuffle-the-array.ts)|
 | [1486. XOR Operation in an Array](https://leetcode.com/problems/xor-operation-in-an-array/description/) | [📌](./src/1486-xor-operation-in-an-array.ts)|
 | [1512. Number of Good Pairs](https://leetcode.com/problems/number-of-good-pairs/description/) | [📌](./src/1512-number-of-good-pairs.ts)|
