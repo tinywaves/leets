@@ -13,6 +13,7 @@ LeetCode solutions in TypeScript, with some pandas-related problems solved using
 | [326. Power of Three](https://leetcode.com/problems/power-of-three/description/) | [📌](./src/0326-power-of-three.ts)|
 | [584. Find Customer Referee](https://leetcode.com/problems/find-customer-referee/description/) | [📌](./src/0584_find_customer_referee.py)|
 | [709. To Lower Case](https://leetcode.com/problems/to-lower-case/description/) | [📌](./src/0709-to-lower-case.ts)|
+| [852. Peak Index in a Mountain Array](https://leetcode.com/problems/peak-index-in-a-mountain-array/description/) | [📌](./src/0852-peak-index-in-a-mountain-array.ts)|
 | [867. Transpose Matrix](https://leetcode.com/problems/transpose-matrix/description/) | [📌](./src/0867-transpose-matrix.ts)|
 | [1189. Maximum Number of Balloons](https://leetcode.com/problems/maximum-number-of-balloons/description/) | [📌](./src/1189-maximum-number-of-balloons.ts)|
 | [1281. Subtract the Product and Sum of Digits of an Integer](https://leetcode.com/problems/subtract-the-product-and-sum-of-digits-of-an-integer/description/) | [📌](./src/1281-subtract-the-product-and-sum-of-digits-of-an-integer.ts)|
